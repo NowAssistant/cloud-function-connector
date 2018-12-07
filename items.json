@@ -1,0 +1,46 @@
+{
+   "items": [
+        {
+          "id": "a1",
+          "title": "Deanna Hughes",
+          "description": "deanna.hughes@example.com",
+          "thumbnail": "https://randomuser.me/api/portraits/women/17.jpg",
+          "selectLabel":  "Select Deanna"
+        },
+        {
+          "id": "a2",
+          "title": "Gökhan Tekand",
+          "description": "gökhan.tekand@example.com",
+          "thumbnail": "https://randomuser.me/api/portraits/men/26.jpg",
+		  "selectLabel":  "Select Gökhan"
+        },
+        {
+          "id": "a3",
+          "title": "Albert Santiago",
+          "description": "albert.santiago@example.com",
+          "thumbnail": "https://randomuser.me/api/portraits/men/23.jpg",
+		  "selectLabel":  "Select Albert"
+        },
+        {
+          "id": "a4",
+          "title": "William Madsen",
+          "description": "william.madsen@example.com",
+          "thumbnail": "https://randomuser.me/api/portraits/men/22.jpg",
+		  "selectLabel":  "Select William"
+        },
+        {
+          "id": "a5",
+          "title": "Egídio Campos",
+          "description": "egídio.campos@example.com",
+          "thumbnail": "https://randomuser.me/api/portraits/men/16.jpg",
+		  "selectLabel":  "Select Egídio"
+        },
+        {
+          "id": "a6",
+          "title": "Tara Kraus",
+          "description": "tara.kraus@example.com",
+          "thumbnail": "https://randomuser.me/api/portraits/women/44.jpg",
+		  "selectLabel":  "Select Tara"
+        }
+    ]
+}
