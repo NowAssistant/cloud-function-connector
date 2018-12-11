@@ -1,7 +1,7 @@
-ConnectorTitle: gallery-action-connector
+ConnectorTitle: cloud-function-connector
 AccessCodeServiceEndpoint: 
 AccessTokenServiceEndpoint: 
-ApiEndPoint: https://gallery-action-connector.com
+ApiEndPoint: https://cloud-function-connector.com
 UserName: hide
 UserPassword: hide
 ClientId: hide
@@ -9,9 +9,9 @@ ClientSecret: hide
 AccessCodeServiceUrl: hide
 AccessTokenServiceUrl: hide
 Personalized: !!bool true
-ApiKey: hide
-ServiceUrl: hide
-ServiceUrlHint: ''
+ApiKey: required
+ServiceUrl: required
+ServiceUrlHint: 'Cloud function base URL'
 XML2JSON: hide
 ImpersonateOAuth: hide
 Interface: hide

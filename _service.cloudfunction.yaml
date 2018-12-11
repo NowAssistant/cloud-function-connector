@@ -1,5 +1,5 @@
-InterfaceName: ping
-Description: Ping
+InterfaceName: 
+Description: cloudfunction
 APIDoc: ''
 Interfaces: ''
 RequiredScopes: ''
