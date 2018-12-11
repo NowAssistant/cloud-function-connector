@@ -1,3 +1,3 @@
-gallery-action-connector Connecor
+cloud-function-connector
 ===
 
